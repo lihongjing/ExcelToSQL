@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: . lib/excel-util-1.2.4.jar
+Main-Class: com.jiao.baba.MainTest
+Main-Class: com.jiao.baba.MainTest
+
+
